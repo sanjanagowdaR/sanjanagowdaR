@@ -1,4 +1,4 @@
-https://www.linkedin.com/pulse/ai-consulting-explained-comprehensive-guide-businesses-datatobiz
+
 <h1 align="center">Hi 👋, I'm sanjana</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
