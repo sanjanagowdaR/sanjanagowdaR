@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm sanjana</h1>
-<h2 align="center">"C:\Users\sanja\Downloads\image11.webp" </h2>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <img align="right" alt="coding" width="400" img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" width="500">
