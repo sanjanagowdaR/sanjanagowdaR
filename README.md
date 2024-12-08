@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sanjana R</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" width="500">
+<h3 align="center">A Student specializing in artificial intelligence</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjanagowdar&label=Profile%20views&color=0e75b6&style=flat" alt="sanjanagowdar" /> </p>
 
 - 🌱 I’m currently learning **Artificial Intelligence**
@@ -20,3 +20,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjanagowdar&show_icons=true&locale=en" alt="sanjanagowdar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjanagowdar&" alt="sanjanagowdar" /></p>
+
